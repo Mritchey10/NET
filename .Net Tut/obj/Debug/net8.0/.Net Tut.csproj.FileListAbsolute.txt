@@ -1,0 +1,14 @@
+/Users/maxritchey/NET/.Net Tut/bin/Debug/net8.0/.Net Tut
+/Users/maxritchey/NET/.Net Tut/bin/Debug/net8.0/.Net Tut.deps.json
+/Users/maxritchey/NET/.Net Tut/bin/Debug/net8.0/.Net Tut.runtimeconfig.json
+/Users/maxritchey/NET/.Net Tut/bin/Debug/net8.0/.Net Tut.dll
+/Users/maxritchey/NET/.Net Tut/bin/Debug/net8.0/.Net Tut.pdb
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.AssemblyInfoInputs.cache
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.AssemblyInfo.cs
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.csproj.CoreCompileInputs.cache
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.dll
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/refint/.Net Tut.dll
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.pdb
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/.Net Tut.genruntimeconfig.cache
+/Users/maxritchey/NET/.Net Tut/obj/Debug/net8.0/ref/.Net Tut.dll
